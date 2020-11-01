@@ -1,4 +1,4 @@
-# Check the latest Version at [AryaBootstrap](https://github.com/mRizvandi/AryaBootstrap)
+# برای دسترسی به آخرین نسخه همیشه به این آدرس مراجعه کنید [AryaBootstrap](https://github.com/mRizvandi/AryaBootstrap)
 
 
 # AryaBootstrap
